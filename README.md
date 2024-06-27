@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End,Game Development and Design in general!
 - 🌱 I’m currently learning Java, JavaScript, C and HTML
 - 💞️ I’m looking to collaborate on what the life shows up!
-- 📫 How to reach me @omundodematheuzaum on Instagram!
+- 📫 How to reach me? @omundodematheuzaum on Instagram!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've started learning programming by accident, it started as a solution to OBS scripting, and became what I learn on college
 
