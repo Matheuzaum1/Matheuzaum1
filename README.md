@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python,Nodejs,MongoDB,JS and SQL**
+- 🔭 I’m currently working on **Python,Nodejs,SQL**
 
 - 🌱 I’m currently learning **Python and Database in general**
 
