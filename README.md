@@ -27,13 +27,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python,Nodejs,SQL**
+- 🔭 I’m currently working on **Python,Java,PostgreSQL,MySQL**
 
 - 🌱 I’m currently learning **Python and Database in general**
 
-- ☁️ I've keen interest in Full Stack DEV. So,I'm learning **HTML,Python,CSS,JS,Node and Flask**
-
-- 📝 I regularly write articles on....Work in Progress
+- ☁️ I've keen interest in Full Stack DEV. So,I'm learning **HTML,Python,CSS,JS,Node and Java**
 
 - 💬 Ask me about **Anything**
 
