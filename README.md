@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Python and Database in general**
 
-- ☁️ I've keen interest in Full Stack DEV. So,I'm learning **HTML,Python,CSS,JS,Node and Java**
+- ☁️ I've keen interest in DevOPS
 
 - 💬 Ask me about **Anything**
 
