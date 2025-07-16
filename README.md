@@ -1,89 +1,77 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Matheus!</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Error! Matheuzaum1 is not defined </h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Python,Java,PostgreSQL,MySQL**
-
-- 🌱 I’m currently learning **Python and Database in general**
-
-- ☁️ I've keen interest in DevOPS
-
-- 💬 Ask me about **Anything**
-
-- 📫 Feel free to reach me out **matheushenriquerosendo@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Matheuzaum](https://discordapp.com/users/304696698163167232) my username!
-<!--Intro end-->
-
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,md,mongodb,mysql,nodejs,postman,py,vscode,c,au,pr,&perline=14" />
+  <a href="https://github.com/Matheuzaum1">
+    <img src="https://github.com/Matheuzaum1/Matheuzaum1/blob/main/profile-header.png?raw=true" alt="Banner de perfil - Olá, sou Matheus Henrique!" width="100%">
   </a>
 </p>
 
+<h1 align="center">Olá, sou Matheus Henrique 👋</h1>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/matheus-henrique-rosendo-medeiros-b909a51a5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/matheuzaum_1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/omundodematheuzaum/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/304696698163167232" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  Entusiasta de <b>DevOps</b> e com conhecimentos em <b>Fullstack</b>, sou apaixonado por <b>games, DevOps e música</b>. Atualmente estou focado(a) em projetos da faculdade, que você pode encontrar aqui no meu GitHub.
 </p>
 
+---
 
-<!--profile visit count-->
-<div align="center">
-  
-</div>
+### ✨ Sobre Mim
 
+-   🔭  No momento estou trabalhando em: **Projetos acadêmicos** das disciplinas da faculdade.
+-   🌱  Estou sempre aprendendo: Estou bastante imerso em **SQL e PHP**.
+-   👯  Busco colaborar em: Atualmente estou procurando oportunidades de colaboração em projetos.
+-   🤔  Preciso de ajuda com: Principalmente **Banco de Dados**, um tema que ainda busco aprofundar meus conhecimentos.
+-   💬  Pergunte-me sobre: **GitHub, PHP, Git, e Java**.
+-   ⚡  Curiosidade: Coleciono **CDs e DVDs** e tenho um grande interesse por **tecnologia retrô**!
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant) creator of this template!
+### 🛠️ Minhas Habilidades
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-henrique-rosendo-medeiros-b909a51a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:matheushenriquerosendo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheuzaum1&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuzaum1&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuzaum1&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  Feito com ❤️ por Matheus Henrique
+</p>
