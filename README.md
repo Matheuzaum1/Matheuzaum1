@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/Matheuzaum1">
-    <img src="https://github.com/Matheuzaum1/Matheuzaum1/blob/main/profile-header.png?raw=true" alt="Banner de perfil - Olá, sou Matheus Henrique!" width="100%">
   </a>
 </p>
 
